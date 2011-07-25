@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Test"
+date: 2011-07-25 15:50
+comments: true
+categories: 
+---
+hehehehe is this going to work??
+
